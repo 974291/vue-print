@@ -1,1 +1,5 @@
-# vue-print
+# vue-stats
+
+## externals
+
+stats
