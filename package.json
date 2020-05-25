@@ -1,5 +1,5 @@
 {
-  "name": "@qq974291/vue-print",
+  "name": "@aler974291/vue-print",
   "version": "1.0.9",
   "description": "Print HTML elements in modern browsers.",
   "main": "dist/print.js",
