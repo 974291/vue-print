@@ -5,7 +5,7 @@
   "main": "dist/print.js",
   "private": false,
   "files": [
-    "/dist/*",
+    "/src/*",
     "LICENSE",
     "README.md",
     "package.json"
