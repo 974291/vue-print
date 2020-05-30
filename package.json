@@ -1,8 +1,8 @@
 {
   "name": "@aler974291/vue-print",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Print HTML elements in modern browsers.",
-  "main": "src/index.js",
+  "main": "dist/print.js",
   "private": false,
   "files": [
     "/src/*",
